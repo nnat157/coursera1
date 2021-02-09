@@ -1,3 +1,2 @@
 # coursera1
-HTML, CSS, JS Coursera Course - Module 3 Assignment
-End of module 2 assignment
+HTML, CSS, JS Coursera Course - Assignment Submission for the end of the 2nd module.
